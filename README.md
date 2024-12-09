@@ -55,4 +55,4 @@ This mod adds a series of dialogues with Hexxat.
 
 **Translators**  
 
-- Russian &nbsp;&ndash;&nbsp; Jarly
+- **Russian**:&nbsp; Jarly
