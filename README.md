@@ -1,7 +1,6 @@
 [![Release](https://img.shields.io/github/v/release/Spellhold-Studios/Hexxat-Friendship?include_prereleases&color=%2392403a)](https://github.com/Spellhold-Studios/Hexxat-Friendship/releases/latest)
 [![Published](https://img.shields.io/github/release-date/Spellhold-Studios/Hexxat-Friendship?display_date=published_at&label=published&color=%2392403a)](https://github.com/Spellhold-Studios/Hexxat-Friendship/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/Spellhold-Studios/Hexxat-Friendship/total?color=%2392403a)](https://github.com/Spellhold-Studios/Hexxat-Friendship/releases)
-[![Views](https://badges.pufler.dev/visits/Spellhold-Studios/Hexxat-Friendship?label=views&color=%2392403a)](https://github.com/Spellhold-Studios/Hexxat-Friendship/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%a0%20macOS%20%a0%20Linux%20%a0%20Project%20Infinity-%2392403a)](https://github.com/Spellhold-Studios/Hexxat-Friendship/releases)
 [![Games](https://img.shields.io/badge/games-BG2%3AEE%20%a0%20EET-%2392403a)](https://github.com/Spellhold-Studios/Hexxat-Friendship/releases)
 [![Language](https://img.shields.io/badge/language-en%20%a0%20ru-%2392403a)](https://github.com/Spellhold-Studios/Hexxat-Friendship/releases)
